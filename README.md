@@ -1,6 +1,6 @@
 # TheMovieDB
 
-I´ve used the following external libraries because I didn't want to reinvent the wheel and they are very useful:
+I´ve used the following external libraries because I didn't want to reinvent the wheel and according to my experience they are very useful and work very well:
 - SearchTextField: It makes really easy the ability to show an autocomplete suggestions list. 
 - Alamofire:  It provides an interface that simplifies a number of common networking tasks.
 - Swinject: a lightweight and very useful dependency injection framework.
